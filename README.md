@@ -1,3 +1,3 @@
 # Jenkins
 
-Example C code with a Makefile
+Example C code with a Makefile and CIA commentary
